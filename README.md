@@ -1,3 +1,8 @@
+Useful links: 
+Prevent Scrolling: https://stackoverflow.com/questions/39962757/prevent-scrolling-using-css-on-react-rendered-components
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
